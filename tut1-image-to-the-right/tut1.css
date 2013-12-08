@@ -1,0 +1,11 @@
+img {
+	width: 100px;
+	height: 100px;
+}
+
+.floatright {
+	float: right;
+	margin: 0 0 10px 10px;
+	border: 1px solid #666;
+	padding: 2px;
+}

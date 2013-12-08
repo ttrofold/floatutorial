@@ -1,0 +1,24 @@
+img {
+	width: 100px;
+	height: 100px;
+}
+
+.floatright {
+	width: 103px;
+	float: right;
+	margin: 0 0 10px 10px;
+	background-color: #ddd;
+	padding: 10px;
+	border-top: 1px solid #999;
+	border-right: 2px solid #555;
+	border-bottom: 2px solid #555;
+	border-left: 1px solid #999;
+}
+
+div.floatright img {
+	border: 1px solid #666;
+}
+
+p {
+	margin-top: 0;
+}

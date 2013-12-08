@@ -1,0 +1,16 @@
+.thumbnail img {
+	width: 60px;
+	height: 60px;	
+}
+
+.thumbnail {
+	width: 60px;
+	float: left;
+	border: 1px solid #999;
+	margin: 0 15px 15px 0;
+	padding: 5px;
+}
+
+.clearboth {
+	clear: both;
+}
